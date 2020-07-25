@@ -14,7 +14,7 @@ In a further implementation this MVP could be enhanced using the SHA256 hashes o
           
 [![Demo Two-Factor Authentication for smart Contracts](https://img.youtube.com/vi/jyr_Zvz585A/0.jpg)](https://youtu.be/jyr_Zvz585A "Demo Two-Factor Authentication for smart Contracts")
 
-[![Twitter](/docs/img/twitter-logo.png)]
+![Twitter](/docs/img/twitter-logo.png)
 [/DigitalBridgeIO](https://twitter.com/DigitalBridgeIO)
 
 ## How to try the demo
