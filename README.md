@@ -1,9 +1,6 @@
 
 # Two-Factor Authentication for smart Contracts
 
-
-# Two-Factor Authentication for smart Contracts
-
 There are some Smart Contracts that due to its importance requires a second layer of security.   
 In that cases this MVP provides a second factor of authentication using one of the wide spreaded apps such as Google Authenticator, Auth0, Microsoft Authenticator or Authy.
 
