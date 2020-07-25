@@ -14,7 +14,7 @@ In a further implementation this MVP could be enhanced using the SHA256 hashes o
           
 [![Demo Two-Factor Authentication for smart Contracts](https://img.youtube.com/vi/jyr_Zvz585A/0.jpg)](https://youtu.be/jyr_Zvz585A "Demo Two-Factor Authentication for smart Contracts")
 
-## How to test the Demo
+## How to try the demo
 
 ### 1) Set up the External APP in a smart phone
 
