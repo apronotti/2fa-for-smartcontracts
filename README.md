@@ -14,6 +14,9 @@ In a further implementation this MVP could be enhanced using the SHA256 hashes o
           
 [![Demo Two-Factor Authentication for smart Contracts](https://img.youtube.com/vi/jyr_Zvz585A/0.jpg)](https://youtu.be/jyr_Zvz585A "Demo Two-Factor Authentication for smart Contracts")
 
+[![Twitter](/docs/img/twitter-logo.png)]
+[/DigitalBridgeIO](https://twitter.com/DigitalBridgeIO)
+
 ## How to try the demo
 
 ### 1) Set up the External APP in a smart phone
@@ -28,7 +31,7 @@ to perform the test we created 3 hardcoded user IDs with the keys. You can use a
 * 'joe'  : '6VG5WWIDWHLR3SYE'
 
 
-![GitHub Logo](/docs/img/load-qr-sc-screenshot.jpeg)
+![Google Authenticator](/docs/img/load-qr-sc-screenshot.jpeg)
 
 ### 2) Set up the smart contract
 
@@ -43,7 +46,7 @@ https://github.com/apronotti/2fa-for-smartcontracts/blob/master/contract/GoogleA
 
 To test you can invoke the method via remix interface with the ID and the temporary PIN as Parameters. 
 
-![GitHub Logo](/docs/img/ga-pin-gen-screenshot.jpeg)
+![Google Authenticator](/docs/img/ga-pin-gen-screenshot.jpeg)
 
 requestGAPINCheck(ID,PIN)
 
