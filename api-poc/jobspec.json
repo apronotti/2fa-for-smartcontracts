@@ -1,0 +1,39 @@
+{
+    "initiators": [
+      {
+        "type": "runlog",
+        "params": {
+          "address": "[ORACLE_ADDRESS]"
+        }
+      }
+    ],
+    "tasks": [
+      {
+        "type": "httpget",
+        "confirmations": null,
+        "params": {
+        }
+      },
+      {
+        "type": "jsonparse",
+        "confirmations": null,
+        "params": {
+        }
+      },
+      {
+        "type": "ethbool",
+        "confirmations": null,
+        "params": {
+        }
+      },
+      {
+        "type": "ethtx",
+        "confirmations": null,
+        "params": {
+        }
+      }
+    ],
+    "startAt": null,
+    "endAt": null
+  }
+  
