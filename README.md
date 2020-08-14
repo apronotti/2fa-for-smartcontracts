@@ -14,7 +14,7 @@ In order to test this MVP we have written a minimal python Company API that has 
 
 In a further implementation this MVP could be enhanced using the SHA256 hashes of the PINs and creating an external adapter to compare them.  
           
-[![Demo Two-Factor Authentication for smart Contracts](https://img.youtube.com/vi/jyr_Zvz585A/0.jpg)](https://youtu.be/jyr_Zvz585A "Demo Two-Factor Authentication for smart Contracts")
+[![Demo Two-Factor Authentication for smart Contracts](https://img.youtube.com/vi/6Yh3rmcrKRc/0.jpg)](https://www.youtube.com/watch?v=6Yh3rmcrKRc "Demo Two-Factor Authentication for smart Contracts")
 
 ![Twitter](/docs/img/twitter-logo.png)
 [/DigitalBridgeIO](https://twitter.com/DigitalBridgeIO)
