@@ -5,7 +5,7 @@ import "https://github.com/smartcontractkit/chainlink/evm-contracts/src/v0.4/ven
 
 contract GoogleAuthenticatorPINCheck is ChainlinkClient, Ownable {
   uint256 constant private ORACLE_PAYMENT = 1 * LINK;
-  string  constant private JOBID = "71840df8f5354d029282fe71ca559499";
+  string  constant private JOBID = "d75cacd184624a0dba56a0bcad2aef33";
   address constant private ORACLE_ADDRESS = 0x149Ce3cd81b1d899df267913a6C6CFBfCe7412BF;
   
   bool public currentPermission;
@@ -71,7 +71,7 @@ contract GoogleAuthenticatorPINCheck is ChainlinkClient, Ownable {
   }
 
   function genGAPINCheckUrl(string _customerId, string _pin) private pure returns (bytes) {
-    string memory url_1 = "http://164.90.156.225/?pin=";
+    string memory url_1 = "http://167.172.192.153/?pin=";
     string memory url_3 = "&customerid=";
     
     bytes memory burl_1 = bytes(url_1);
